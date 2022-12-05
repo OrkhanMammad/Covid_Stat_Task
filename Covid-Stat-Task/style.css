@@ -1,0 +1,10 @@
+.all{
+    display: flex;
+}
+.searchDiv a{
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    padding: 10px 5px;
+}
